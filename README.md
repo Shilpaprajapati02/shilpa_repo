@@ -1,2 +1,2 @@
-# shilpa_repo
- This is my repo, which contains my projects
+# python basics projects
+ This is my repo, which contains basic projects using pyhton.
